@@ -14,4 +14,4 @@ venv/
 .venv
 .coverage
 htmlcov
-.git/
+.git/ 
